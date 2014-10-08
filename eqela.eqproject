@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# image
+#
+
+projectname: image
+vendorid: com.mycompany
+mainmodule: com.mycompany.image
